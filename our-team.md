@@ -68,7 +68,7 @@ Hobby : ชอบเล่นเกม อ่านหนังสือกา�
 
 # About Camp
 
-![Camp pic](image/Camp pic.jpg)
+![Camp](image/Camp.jpg)
 
 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/ad9dfd96-25ca-4d90-b16e-9c153b030fc2" /> https://www.instagram.com/bingchillinglol/
 
