@@ -87,25 +87,26 @@ and this is our team members
 
 รหัสนักศึกษา :
 
-# About
-# ![alt text](Image/1)
-<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/ad9dfd96-25ca-4d90-b16e-9c153b030fc2" /> https://www.instagram.com/shareeftwp/
+# About Near
+![near](image/near.jpg)
 
-ชื่อ : 
+<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/ad9dfd96-25ca-4d90-b16e-9c153b030fc2" /> [instagram](https://www.instagram.com/_nnuuta1018_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==&igsi=ZDNlZDc0MzIxNw==)
 
-ชื่อเล่น : 
+Name : นายสพลดนัย เชี่ยวชาญ
 
-อายุ : 
+Nickname : เนียร์
 
-งานอดิเรก : 
+Age : 19 ปี
 
-ทำไมถึงมาเรียนที่นี้ : 
+Hobby : ดูหนัง เล่นหมากรุก
 
-อนาคตอยากทำอะไร : 
+ทำไมถึงมาเรียนที่นี่ : เคยมาเข้าค่ายที่มอนี้แล้วชอบการสอนของอาจารย์ บรรยากาศกับสังคมของที่มอมากๆ มันเลยเป็น No brainer ที่กดสมัครเข้าแบบไม่คิดอะไรตั้งแต่เปิดรับสมัครีอบแรกเลย
+
+อนาคตอยากทำอะไร : อยากเรียนต่อสาย Comsci ไม่ก็ Physic อยากทำงานสาย Quantum computer เพราะเราสนใจมาตั้งแต่ช่วงม.3 เพราะอ่านหนังสือเกี่ยวกับมันแล้วคิดว่าเท่มากๆ
 
 #  ผู้สัมภาษณ์
-ชื่อ :
+ชื่อ : แสนดี สุทธิ์โท
 
-รหัสนักศึกษา :
+รหัสนักศึกษา : 69130500116
 
 
