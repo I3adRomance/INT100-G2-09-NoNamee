@@ -3,7 +3,7 @@ this group named NoName because our team cant decided what name we should use
 
 and this is our team members
 # About POR
-![por]()
+![por](por%20pic.png)
 
 
 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/ad9dfd96-25ca-4d90-b16e-9c153b030fc2" /> https://www.instagram.com/puigioo_/?utm_source=ig_web_button_share_sheet
