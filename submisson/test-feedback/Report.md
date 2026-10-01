@@ -83,7 +83,7 @@
 | :--- | :--- | :--- |
 | สพลดนัย เชี่ยญชาญ | 69130500068 | |
 | ธมนวรรณ คุ้มคง | 69130500087 | |
-| ปวริศร คูเมือง | 69130500091 | |PoV statement,Ideation & Strategy	คิดไอเดีย 5 ข้อ (ideate artifacts), เลือกและสรุป Final Elected Idea
+| ปวริศร คูเมือง | 69130500091 |PoV statement,Ideation & Strategy	คิดไอเดีย 5 ข้อ (ideate artifacts), เลือกและสรุป Final Elected Idea |
 | อุสมันต์ ทวีพูล | 69130500101 | |
 | แสนดี สุทธิ์โท | 69130500116 | |
 
