@@ -81,11 +81,11 @@
 
 | ชื่อ | รหัสนักศึกษา | บทบาท/สิ่งที่รับผิดชอบในงานนี้ |
 | :--- | :--- | :--- |
-| สพลดนัย เชี่ยญชาญ | 69130500068 | |
-| ธมนวรรณ คุ้มคง | 69130500087 | |
+| สพลดนัย เชี่ยญชาญ | 69130500068 |UI/UX Designer	ออกแบบ prototype ทั้ง 7 หน้าจอใน Figma หน้าหลัก, Pre-order, Happy Hour ฯลฯ |
+| ธมนวรรณ คุ้มคง | 69130500087 |Documentation & Report	สรุป feedback matrix, เขียนรายงาน README/our-team.md, จัดการ GitHub rep |
 | ปวริศร คูเมือง | 69130500091 |PoV statement,Ideation & Strategy	คิดไอเดีย 5 ข้อ (ideate artifacts), เลือกและสรุป Final Elected Idea |
-| อุสมันต์ ทวีพูล | 69130500101 | |
-| แสนดี สุทธิ์โท | 69130500116 | |
+| อุสมันต์ ทวีพูล | 69130500101 | Testing & QA	เขียน test script, จัดการนัด/รัน usability test กับผู้ใช้จริง|
+| แสนดี สุทธิ์โท | 69130500116 |Research Lead	สัมภาษณ์/เก็บข้อมูล field research (พนักงานหน้าร้าน 5 คน), สรุป pain point เป็น insight  |
 
 ---
 
